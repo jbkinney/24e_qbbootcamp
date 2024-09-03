@@ -10,9 +10,9 @@ Lead Instructor:
 - Justin Kinney (<jkinney@cshl.edu>), Associate Professor
 
 Schedule:
-- Day 1: Tuesday, 3 September 2023, 10am - 6pm, Plimpton Conference Room, Beckman Bldg.
-- Day 2: Wednesday, 6 September 2023, 1pm - 6pm, Plimpton Conference Room, Beckman Bldg.
-- Day 3: Thursday, 7 September 2023, 10am - 5pm, Plimpton Conference Room, Beckman Bldg.
+- Day 1: Tuesday, 3 September 2024, 10am - 6pm, Plimpton Conference Room, Beckman Bldg.
+- Day 2: Wednesday, 4 September 2024, 1pm - 6pm, Plimpton Conference Room, Beckman Bldg.
+- Day 3: Thursday, 5 September 2024, 10am - 5pm, Plimpton Conference Room, Beckman Bldg.
 
 ## Installing Python 3.12 
 
