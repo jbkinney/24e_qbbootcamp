@@ -1,22 +1,22 @@
-# 2023 Quantitative Biology Bootcamp
+# 2024 Quantitative Biology Bootcamp
 
-Welcome to the 2023 QB Bootcamp of the School for Biological Sciences at Cold Spring Harbor Laboratory! This Github repository contains the Jupyter notebooks, shell scripts, and datasets that we will work through in this bootcamp. 
+Welcome to the 2024 QB Bootcamp of the School for Biological Sciences at Cold Spring Harbor Laboratory! This Github repository contains the Jupyter notebooks, shell scripts, and datasets that we will work through in this bootcamp. 
 
 ## Summary
 
-Repository URL: https://github.com/jbkinney/23e_qbbootcamp
+Repository URL: https://github.com/jbkinney/24e_qbbootcamp
 
 Lead Instructor: 
 - Justin Kinney (<jkinney@cshl.edu>), Associate Professor
 
 Schedule:
-- Day 1: Tuesday, 5 September 2023, 10am - 6pm, Hershey East Room, Hershey Bldg.
-- Day 2: Wednesday, 6 September 2023, 1pm - 6pm, Samet Conference Room, Samet Bldg.
-- Day 3: Thursday, 7 September 2023, 10am - 6pm, Plimptom Confernece Room, Beckman Bldg.
+- Day 1: Tuesday, 3 September 2023, 10am - 6pm, Plimpton Conference Room, Beckman Bldg.
+- Day 2: Wednesday, 6 September 2023, 1pm - 6pm, Plimpton Conference Room, Beckman Bldg.
+- Day 3: Thursday, 7 September 2023, 10am - 5pm, Plimpton Conference Room, Beckman Bldg.
 
-## Installing Python 3.11 
+## Installing Python 3.12 
 
-Students are asked to install the Anaconda distribution of Python 3.9, on their own computers. This is available at https://www.anaconda.com/products/distribution. 
+Students are asked to install the Anaconda distribution of Python 3.12, on their own computers. This is available at https://www.anaconda.com/products/distribution. 
 
 ## Windows laptops
 
@@ -39,5 +39,4 @@ To download elzar_exercise.tar.gz to Elzar, execute:
 Then to unpack, execute:
 
 ```tar -zxvf elzar_exercise.tar.gz```
-# 24e_qbbootcamp
-# 24e_qbbootcamp
+
