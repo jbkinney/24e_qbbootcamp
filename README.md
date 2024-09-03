@@ -6,8 +6,13 @@ Welcome to the 2024 QB Bootcamp of the School for Biological Sciences at Cold Sp
 
 Repository URL: https://github.com/jbkinney/24e_qbbootcamp
 
-Lead Instructor: 
-- Justin Kinney (<jkinney@cshl.edu>), Associate Professor
+Instructors: 
+- Justin Kinney (<jkinney@cshl.edu>)
+- Ivan Iossifov (<iossifov@cshl.edu>)
+
+Teaching assistants:
+- Aria Benjamin (<benjami@cshl.edu>)
+- Kaiser Loell (<loell@cshl.edu>)
 
 Schedule:
 - Day 1: Tuesday, 3 September 2024, 10am - 6pm, Plimpton Conference Room, Beckman Bldg.
